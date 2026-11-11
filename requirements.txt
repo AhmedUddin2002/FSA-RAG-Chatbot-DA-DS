@@ -1,4 +1,4 @@
-streamlit>=1.36 ui/ interface
+streamlit>=1.36
 requests
 beautifulsoup4
 pypdf
